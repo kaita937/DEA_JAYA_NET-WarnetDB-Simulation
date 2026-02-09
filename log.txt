@@ -1,0 +1,32 @@
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
+=== APLIKASI DIJALANKAN ===
+java.version = 17.0.12
+java.home    = C:\Program Files\Eclipse Adoptium\jdk-17.0.12.7-hotspot
+user.dir     = D:\tumgas\Kuliah\Semester 4\6. Praktikum Pengembangan Perangkat Lunak Berorientasi Obyek\project\sqlite_tes_2
